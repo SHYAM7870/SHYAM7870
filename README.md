@@ -1,125 +1,178 @@
-# 👋 Hi, I'm Shyamsankar Kamila
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                    SHYAM'S GITHUB PROFILE                     -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
-### Aspiring Full Stack Developer | BCA Student | Laravel & PHP
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=Building+Web+Applications;Learning+Laravel+%26+Full+Stack+Development;Turning+Ideas+Into+Code" alt="Typing animation" />
-</p>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=230&color=0:080B16,45:111C36,100:172554&text=SHYAMSANKAR%20KAMILA&fontSize=43&fontColor=FFFFFF&fontAlignY=42&desc=FULL%20STACK%20DEVELOPER%20%E2%80%A2%20PHP%20%2F%20LARAVEL&descSize=13&descAlignY=62&descColor=9DB7E8" />
 
-<p align="center">
+  <br/>
+
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=3200&pause=1100&color=60A5FA&center=true&vCenter=true&width=650&lines=Building+thoughtful+digital+experiences.;Turning+ideas+into+functional+web+applications.;Learning%2C+building%2C+and+evolving+every+day." alt="Introduction"/>
+
+  <br/><br/>
+
   <a href="https://github.com/SHYAM7870">
-    <img src="https://img.shields.io/badge/GitHub-SHYAM7870-181717?style=for-the-badge&logo=github" alt="GitHub"/>
+    <img src="https://img.shields.io/badge/EXPLORE%20MY%20WORK-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
   <a href="https://www.linkedin.com/in/shyamsankar-kamila-b370153a5/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LET'S%20CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:kamilashyamsankar@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+    <img src="https://img.shields.io/badge/GET%20IN%20TOUCH-334155?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-</p>
 
----
+  <br/><br/>
 
-## 🚀 About Me
+  <img src="https://komarev.com/ghpvc/?username=SHYAM7870&style=flat-square&color=3B82F6&label=PROFILE+VIEWS" alt="Profile views"/>
 
-I'm a BCA student passionate about software development and building practical web applications.
+</div>
 
-- 🎓 Currently pursuing Bachelor of Computer Applications (BCA)
-- 💻 Focused on PHP, Laravel, MySQL and Full Stack Development
-- 🌱 Continuously learning backend development and modern web technologies
-- 🛠️ Building projects to strengthen my development skills
-- 🎯 Aspiring to become a professional Full Stack Developer
-- 📍 Contai, Purba Medinipur, West Bengal, India
+<br/>
 
----
+<!-- INTRODUCTION -->
 
-## 🧰 Tech Stack
+## 01 / THE DEVELOPER
 
-### Languages
+I'm **Shyamsankar Kamila**, a BCA student and aspiring Full Stack Developer interested in creating useful, reliable, and well-designed web applications.
+
+My primary focus is backend development with PHP and Laravel, complemented by frontend technologies and database management.
+
+I enjoy taking an idea, understanding the problem behind it, and gradually turning it into a working product.
+
+```text
+CURRENT FOCUS     Backend & Full Stack Development
+PRIMARY STACK     PHP · Laravel · MySQL
+FRONTEND          HTML · CSS · JavaScript · Bootstrap
+DEVELOPMENT       Building practical projects
+LOCATION          West Bengal, India
+```
+
+<br/>
+
+## 02 / TECHNOLOGY & TOOLS
+
+The technologies I work with and continue to develop my skills in.
+
+### Core Development
+
 <p>
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=php,laravel,js,html,css,bootstrap,mysql&theme=dark" alt="Core technologies"/>
 </p>
 
-### Frontend
+### Development Environment
+
 <p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,windows&theme=dark" alt="Development tools"/>
 </p>
 
-### Backend & Database
-<p>
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-</p>
+<br/>
 
-### Tools
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
-</p>
+## 03 / SELECTED WORK
 
----
+A selection of projects and development work.
 
-## 💼 Featured Projects
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h3>01. SmartMedTrack</h3>
+      <p><strong>Medicine Management & Traceability System</strong></p>
+      <p>A Laravel-based project focused on medicine management, batch tracking, role-based workflows and traceability.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white"/>
+        <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white"/>
+        <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+      </p>
+      <a href="https://github.com/SHYAM7870?tab=repositories">
+        <strong>↗ EXPLORE PROJECTS</strong>
+      </a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>02. Responsive Web Projects</h3>
+      <p><strong>Frontend & User Interface Development</strong></p>
+      <p>A collection of frontend experiments and website projects focused on responsive layouts, styling and interface development.</p>
+      <p>
+        <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+        <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+      </p>
+      <a href="https://github.com/SHYAM7870?tab=repositories">
+        <strong>↗ EXPLORE PROJECTS</strong>
+      </a>
+    </td>
+  </tr>
+</table>
 
-### 🏥 SmartMedTrack
-A medicine tracking and management system built to support medicine inventory and traceability workflows.
+<br/>
 
-- Role-based dashboards and management
-- Medicine and batch tracking
-- Inventory and reporting features
-- Built with Laravel, PHP, MySQL and web technologies
+## 04 / GITHUB ACTIVITY
 
-🔗 Explore my repositories: [GitHub Projects](https://github.com/SHYAM7870?tab=repositories)
+<div align="center">
 
-### 🌐 Responsive Web Projects
-A collection of frontend projects focused on responsive layouts, styling and user interface development.
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=SHYAM7870&bg_color=080B16&color=93C5FD&line=3B82F6&point=FFFFFF&area=true&hide_border=true&custom_title=DEVELOPMENT%20ACTIVITY" alt="GitHub activity graph"/>
 
-🔗 [View Repositories](https://github.com/SHYAM7870?tab=repositories)
+  <br/><br/>
 
----
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=SHYAM7870&show_icons=true&hide_border=true&bg_color=080B16&title_color=93C5FD&text_color=CBD5E1&icon_color=60A5FA&rank_icon=github" alt="GitHub statistics"/>
 
-## 📊 GitHub Statistics
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SHYAM7870&layout=compact&hide_border=true&bg_color=080B16&title_color=93C5FD&text_color=CBD5E1" alt="Top languages"/>
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=SHYAM7870&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="GitHub stats"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SHYAM7870&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages"/>
-</p>
+</div>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=SHYAM7870&theme=tokyonight&hide_border=true" alt="GitHub streak"/>
-</p>
+<br/>
 
----
+## 05 / WHAT I'M WORKING TOWARDS
 
-## 🎯 Current Goals
+<table width="100%">
+  <tr>
+    <td width="50%">
+      <strong>01 — Backend Engineering</strong><br/>
+      Deepening my knowledge of Laravel, PHP, authentication and application architecture.
+    </td>
+    <td width="50%">
+      <strong>02 — Database Development</strong><br/>
+      Improving database design, SQL queries and efficient data management.
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <strong>03 — Full Stack Applications</strong><br/>
+      Connecting polished interfaces with reliable backend functionality.
+    </td>
+    <td width="50%">
+      <strong>04 — Professional Growth</strong><br/>
+      Strengthening problem-solving, clean coding and industry-ready development skills.
+    </td>
+  </tr>
+</table>
 
-- Strengthen Laravel and PHP backend development
-- Build complete full-stack applications
-- Improve database design and API development
-- Learn industry-standard coding practices
-- Prepare for Full Stack Developer opportunities
+<br/>
 
----
+## 06 / LET'S CONNECT
 
-## 🤝 Let's Connect
+I'm open to connecting with developers, learning from experienced engineers, collaborating on interesting projects and exploring entry-level development opportunities.
 
-I'm always interested in learning, collaborating on projects and connecting with fellow developers.
+<div align="center">
 
-<p align="center">
-  <a href="https://github.com/SHYAM7870">GitHub</a> •
-  <a href="https://www.linkedin.com/in/shyamsankar-kamila-b370153a5/">LinkedIn</a> •
-  <a href="mailto:kamilashyamsankar@gmail.com">Email</a>
-</p>
+  <a href="mailto:kamilashyamsankar@gmail.com">
+    <img src="https://img.shields.io/badge/EMAIL-LET'S%20TALK-2563EB?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
 
-<p align="center">
-  <i>“Great things are built one line of code at a time.”</i>
-</p>
+  <a href="https://www.linkedin.com/in/shyamsankar-kamila-b370153a5/">
+    <img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=120&section=footer" alt="Footer"/>
-</p>
+  <a href="https://github.com/SHYAM7870">
+    <img src="https://img.shields.io/badge/GITHUB-FOLLOW-334155?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+
+  <br/><br/>
+
+  <strong>SHYAMSANKAR KAMILA</strong><br/>
+  <sub>Building with purpose. Learning without limits.</sub>
+
+  <br/><br/>
+
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:172554,50:111C36,100:080B16&height=100&section=footer"/>
+
+</div>
